@@ -265,4 +265,8 @@
 - `Arrays.equals(array1, array2)` - Checks if arrays are equal
 - `Arrays.toString(array)` - Returns string representation of array
 - `Arrays.asList(elements...)` - Returns fixed-size list backed by array
+<<<<<<< HEAD
 - `Arrays.stream(array)` - Returns stream from array
+=======
+- `Arrays.stream(array)` - Returns stream from array
+>>>>>>> e0e55d84916bcf54274fcae9c663a8f11e6dd7fd
